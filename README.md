@@ -1,6 +1,6 @@
-## Financial Web Extraction in Python using Web APIS
+# Financial Web Extraction in Python using Web APIS
 
-# Project Objectives:
+## Project Objectives
 1. Utilize the APIs of multiple banking superintendencies in Latin America such as:
    * Dominican Republic
    * Panama
@@ -16,10 +16,10 @@ In order to automatically extract financial information such as:
 
 See first code: https://github.com/liannfinlayson26/Financial-Web-Extract-Python/blob/main/Test1_Dominican_Republic.ipynb
 
-# Pending:
+## Pending tasks
 
 
-# Sources:
+## Sources
 <br/> Superintendencia de Bancos de República Dominicana: https://www.sb.gob.do/
 <br/> Portal de APIs RDO: https://desarrollador.sb.gob.do/ 
 <br/> Portal de indicadores: https://simbad.sb.gob.do/superset/dashboard/105/?native_filters_key=jxCBWctkxC4aVQE6iNMe4U_jGBtjc20Z6P8l-NzV5V-zCwm6Eyd2ivTQbG42sQfl
