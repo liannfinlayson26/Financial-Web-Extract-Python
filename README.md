@@ -1,7 +1,5 @@
 # Financial Web Extraction in Python using Web APIS
 
-
-
 ## Project Objectives
 1. Utilize the APIs of multiple banking superintendencies in Latin America such as:
    * Dominican Republic
@@ -30,9 +28,11 @@ See first code: https://github.com/liannfinlayson26/Financial-Web-Extract-Python
 6. Create a dashboard on Tableau Public based on the extracted information.
 
 
-## Sources
+## Sources and Guides
 Superintendency of Banks of the Dominican Republic: https://www.sb.gob.do/
 <br/> RDO APIs Portal: https://desarrollador.sb.gob.do/ 
 <br/> Indicators Portal: https://simbad.sb.gob.do/superset/dashboard/105/?native_filters_key=jxCBWctkxC4aVQE6iNMe4U_jGBtjc20Z6P8l-NzV5V-zCwm6Eyd2ivTQbG42sQfl
 <br/> Parameters: https://desarrollador.sb.gob.do/referencias#aIfYJ
-<br/> APIs Guide: 
+<br/> APIs Guide how to use in R and Python: https://medium.com/@SB-ESTUDIOS/usar-el-api-v2-de-estad%C3%ADstica-desde-python-y-r-857bf76fdf7f
+<br/> APIs Guide 2.0: https://medium.com/@SB-ESTUDIOS/bienvenido-al-api-de-estad%C3%ADsticas-versi%C3%B3n-2-0-6dcf1c033c42
+<br/> APIs Guide Register: https://medium.com/@SB-ESTUDIOS/c%C3%B3mo-registrarte-en-el-portal-de-apis-de-la-superintendencia-de-bancos-b8a59acf3f9a
